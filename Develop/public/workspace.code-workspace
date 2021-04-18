@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\maryam"
+		},
+		{
+			"name": "workouttracker",
+			"path": "..\\..\\..\\..\\..\\workouttracker"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
